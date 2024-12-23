@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+body,
+a {
+  font-family: sans-serif;
+}
+
+.btn {
+  border-radius: 20px !important;
+  border: 1px solid !important;
+}
